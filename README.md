@@ -7,7 +7,7 @@ npm install
 ```
 ## Para rodar
 ```bash
-nodemon app.js
+node app.js
 ```
 ## Mysql
 Arrume o arquivo .env com as informações do seu mysql
